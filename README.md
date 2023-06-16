@@ -1,2 +1,2 @@
-# ann_bank_customers
-An artificial neural network to predict if a certain bank customer would leave 
+# BankChurnForecast
+BankChurnForecast is a deep learning repository leveraging artificial neural networks to predict customer churn in the banking industry. The models analyze various customer attributes and historical data to provide accurate forecasts on whether a customer is likely to leave the bank. Enhance customer retention strategies and optimize business decisions with this powerful predictive tool.
